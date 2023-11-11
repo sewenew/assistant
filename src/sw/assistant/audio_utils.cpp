@@ -20,7 +20,7 @@
 
 namespace {
 
-sw::va::SDLInit sdl_init;
+sw::assistant::SDLInit sdl_init;
 
 }
 
